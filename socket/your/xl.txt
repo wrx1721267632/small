@@ -1,0 +1,84 @@
+ linux is online
+   Fri Aug 14 16:12:02 2015
+
+input(to linux): #to linux
+
+   Fri Aug 14 16:12:05 20 15
+ 服务器： it's ok,you can talk with your friend
+
+   Fri Aug 14 16:12:05 2015
+
+input(to linux): sad
+
+   Fri Aug 14 16:12:06 2015
+input(to linux): ad
+
+   Fri Aug 14 16:12:06 2015
+input(to linux): asd
+
+   Fri Aug 14 16:12:06 2015
+input(to linux): sad
+
+   Fri Aug 14 16:12:07 2015
+ linux is online
+   Fri Aug 14 16:12:15 2015
+
+ linux is online
+   Fri Aug 14 16:16:48 2015
+
+input(to linux): #to linux
+
+   Fri Aug 14 16:16:52 2015
+ 服务器： it's ok,you can talk with your friend
+
+   Fri Aug 14 16:16:52 2015
+
+input(to linux): asd
+
+   Fri Aug 14 16:16:52 2015
+input(to linux): sad
+
+   Fri Aug 14 16:16:53 2015
+input(to linux): sad
+
+   Fri Aug 14 16:16:53 2015
+input(to linux): asd
+
+   Fri Aug 14 16:16:54 2015
+ linux is online
+   Fri Aug 14 16:16:58 2015
+
+ wang is online
+   Mon Aug 17 19:28:07 2015
+
+ wang is go away
+   Mon Aug 17 19:28:12 2015
+
+ linux is online
+   Mon Aug 17 19:28:28 2015
+
+input(to linux): #to linux
+
+   Mon Aug 17 19:28:37 2015
+ 服务器： it's ok,you can talk with your friend
+
+   Mon Aug 17 19:28:37 2015
+
+input(to linux): sad
+
+   Mon Aug 17 19:28:38 2015
+input(to linux): asd
+
+   Mon Aug 17 19:28:38 2015
+input(to linux): asd
+
+   Mon Aug 17 19:28:38 2015
+input(to linux): sad
+
+   Mon Aug 17 19:28:39 2015
+input(to linux): asd
+
+   Mon Aug 17 19:28:39 2015
+input(to linux): asd
+
+   Mon Aug 17 19:28:40 2015

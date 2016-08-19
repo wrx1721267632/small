@@ -1,0 +1,19 @@
+/*************************************************************************
+	> File Name: fuwuqi.c
+	> Author: 
+	> Mail: 
+	> Created Time: 2015年08月04日 星期二 09时01分42秒
+ ************************************************************************/
+
+#include<stdio.h>
+#include <sys/types.h>
+#include <sys/socket.h>
+#include <unistd.h>
+#include <string.h>
+#include <netinet/in.h>
+#include <arpa/inet.h>
+#include <errno.h>
+#include <stdlib.h>
+
+#define SERV_PORT   4507
+#define LISTENQ     12

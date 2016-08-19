@@ -1,0 +1,91 @@
+accept a new client,ip 127.0.0.1
+ Mon Aug 17 19:24:02 2015
+
+xl is online
+ Mon Aug 17 19:24:05 2015
+
+xl is error go away
+ Thu Jan  1 09:02:24 1970
+
+accept a new client,ip 127.0.0.1
+ Mon Aug 17 19:24:09 2015
+
+accept a new client,ip 127.0.0.1
+ Mon Aug 17 19:24:12 2015
+
+accept a new client,ip 127.0.0.1
+ Mon Aug 17 19:27:27 2015
+
+wang zhuce sucess!
+ Mon Aug 17 19:27:46 2015
+
+wang is online
+ Mon Aug 17 19:27:52 2015
+
+wang is error go away
+ (null)
+accept a new client,ip 127.0.0.1
+ Mon Aug 17 19:27:57 2015
+
+xl is online
+ Mon Aug 17 19:27:59 2015
+
+accept a new client,ip 127.0.0.1
+ Mon Aug 17 19:28:02 2015
+
+wang is online
+ Mon Aug 17 19:28:07 2015
+
+wang is error go away
+ (null)
+accept a new client,ip 127.0.0.1
+ Mon Aug 17 19:28:13 2015
+
+linux is online
+ Mon Aug 17 19:28:28 2015
+
+accept a new client,ip 127.0.0.1
+ Mon Aug 17 19:42:27 2015
+
+wang is online
+ Mon Aug 17 19:42:33 2015
+
+wang is go away
+ Thu Jan  1 09:02:24 1970
+
+accept a new client,ip 127.0.0.1
+ Mon Aug 17 19:44:58 2015
+
+accept a new client,ip 127.0.0.1
+ Mon Aug 17 19:46:42 2015
+
+wang zhuce sucess!
+ Mon Aug 17 19:46:49 2015
+
+accept a new client,ip 127.0.0.1
+ Mon Aug 17 19:46:55 2015
+
+accept a new client,ip 127.0.0.1
+ Mon Aug 17 19:48:05 2015
+
+accept a new client,ip 127.0.0.1
+ Mon Aug 17 19:48:21 2015
+
+wang zhuce sucess!
+ Mon Aug 17 19:48:30 2015
+
+accept a new client,ip 127.0.0.1
+ Mon Aug 17 19:48:35 2015
+
+accept a new client,ip 127.0.0.1
+ Mon Aug 17 19:48:40 2015
+
+accept a new client,ip 127.0.0.1
+ Mon Aug 17 19:49:28 2015
+
+linux is online
+ Mon Aug 17 19:49:30 2015
+
+linux is go away
+ Thu Jan  1 09:02:24 1970
+
