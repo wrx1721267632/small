@@ -1,8 +1,8 @@
 /*************************************************************************
-    > File Name: processimage.c
+    > File Name: my_create.c
     > Author: zhanghaoran
     > Mail: chilumanxi@gmail.com 
-    > Created Time: 2015年07月22日 星期三 11时36分58秒
+    > Created Time: 2015年07月20日 星期一 08时46分32秒
  ************************************************************************/
 
 #include <stdio.h>
@@ -14,14 +14,17 @@
 #include <unistd.h>
 #include <errno.h>
 
-
-int main(int argc,char **argv,char **environ)
+int main()
 {
-	int i;
-	printf("i am a process image!\n");
-	printf("My pid = %d, parentpid = %d\n", getpid(), getppid());
-	printf("uid = %d, gid = %d\n",getuid(),getgid());
-	for (i = 0; i < argc; i++) {
-		printf("argv[%d]:%s\n", i, argv[i]);
+	int fd;
+	char *buf;
+	if ((fd = creat("123.txt",S_IRWXU|S_IRWXG|S_IRWXO)) < 0) {
+		perror("open");
+		exit(1);
 	}
+	if (read(fd, buf, 10) < 0) {
+		printf("read\n");
+		exit(1);
+	}
+    return 0;
 }

@@ -67,6 +67,8 @@ void lt(struct epoll_event *events, int number, int epollfd, int listenfd)
                 continue;
             }
             printf("get %d bytes of content: %s\n", ret, buf);
+            //printf("get %d bytes of content: %d %d %d %d %d\n", ret, buf[0], buf[1], buf[2], buf[3], buf[4]);
+            //printf("%d\n",strlen(buf));
         }
         else 
         {
@@ -164,7 +166,7 @@ int main(int argc, char **argv)
         }
 
         lt(events, ret, epollfd, listenfd);
-        // et(events, ret, epolfd, listenfd);
+         //et(events, ret, epollfd, listenfd);
     }
     close(listenfd);
     return 0;
